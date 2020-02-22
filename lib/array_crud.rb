@@ -15,11 +15,11 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  array.pop("array")
+  array.pop("arrays!")
 end
 
 def remove_element_from_start_of_array(array)
-  array.shift("array")
+  array.shift("arrays!")
 end
 
 def retrieve_element_from_index(array, index_number)
